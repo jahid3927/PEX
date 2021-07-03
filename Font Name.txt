@@ -1,0 +1,7 @@
+Menu Font : Open Sans Regular (13px)
+
+h1 : Open Sans Regular (50px)
+ 
+h4: Open Sans Bold (bold) 15px
+
+42: Open Sans Light (lite) 35px
